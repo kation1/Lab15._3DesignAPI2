@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\devbuild\\Lab15.3DesignAPI2\\Lab15.3DesignAPI2\\Lab15.3DesignAPI2.csproj": {}
+    "C:\\devbuild\\Week13\\Lab15.3DesignAPI2\\Lab15.3DesignAPI2\\Lab15.3DesignAPI2.csproj": {}
   },
   "projects": {
-    "C:\\devbuild\\Lab15.3DesignAPI2\\Lab15.3DesignAPI2\\Lab15.3DesignAPI2.csproj": {
+    "C:\\devbuild\\Week13\\Lab15.3DesignAPI2\\Lab15.3DesignAPI2\\Lab15.3DesignAPI2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\devbuild\\Lab15.3DesignAPI2\\Lab15.3DesignAPI2\\Lab15.3DesignAPI2.csproj",
+        "projectUniqueName": "C:\\devbuild\\Week13\\Lab15.3DesignAPI2\\Lab15.3DesignAPI2\\Lab15.3DesignAPI2.csproj",
         "projectName": "Lab15.3DesignAPI2",
-        "projectPath": "C:\\devbuild\\Lab15.3DesignAPI2\\Lab15.3DesignAPI2\\Lab15.3DesignAPI2.csproj",
+        "projectPath": "C:\\devbuild\\Week13\\Lab15.3DesignAPI2\\Lab15.3DesignAPI2\\Lab15.3DesignAPI2.csproj",
         "packagesPath": "C:\\Users\\kpidek\\.nuget\\packages\\",
-        "outputPath": "C:\\devbuild\\Lab15.3DesignAPI2\\Lab15.3DesignAPI2\\obj\\",
+        "outputPath": "C:\\devbuild\\Week13\\Lab15.3DesignAPI2\\Lab15.3DesignAPI2\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\kpidek\\AppData\\Roaming\\NuGet\\NuGet.Config",

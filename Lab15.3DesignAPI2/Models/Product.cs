@@ -50,9 +50,9 @@ namespace Lab15._3DesignAPI2
             return products;
 
         }
-        public static List<Product> UpdateStock(IDbConnection _db, string productName, int itemCount)
+        public static List<Product> UpdateStock(IDbConnection _db, Product product)
         {
-            List<Product> products = (List<Product>)_db.Query<Product>($"UPDATE Products SET UnitsInStock = {itemCount} WHERE ProductName = {productName}");
+            List<Product> products = (List<Product>)_db.Query<Product>($"UPDATE Products SET UnitsInStock = {product.UnitsInStock} WHERE ProductId = {product.ProductID}");
             return products;
 
 

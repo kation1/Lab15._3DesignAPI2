@@ -59,11 +59,11 @@ namespace Lab15._3DesignAPI2.Controllers
 
 
 
-        [HttpPost("Stock/UpdateStock/{productName}/{itemCount}")]
-        public List<Product> UpdateStock(string productName, int itemCount)
+        [HttpPost("Stock/UpdateStock/")]
+        public List<Product> UpdateStock([FromBody]Product product)
         {
 
-            List<Product> products = Product.UpdateStock(_db,productName, itemCount);
+            List<Product> products = Product.UpdateStock(_db, product);
             return products;
 
 

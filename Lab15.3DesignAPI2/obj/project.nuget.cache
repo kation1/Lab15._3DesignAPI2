@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "5DIJjqBsIqS3ColynFKjI57edR8QatovQbaEFkkruzwdJUB+Xnnu/7Hp0wUr3VRdoEsd6OUeDEZWTjqiCpDDOQ==",
+  "dgSpecHash": "fdG79NO+5LTtMV2SoIV6oLzxClPZBnrUolXWNQw9PBcwXys6ZvfdeeybkNefUTurAH1vKcg1XbjbCgK5qsMxuw==",
   "success": true,
-  "projectFilePath": "C:\\devbuild\\Lab15.3DesignAPI2\\Lab15.3DesignAPI2\\Lab15.3DesignAPI2.csproj",
+  "projectFilePath": "C:\\devbuild\\Week13\\Lab15.3DesignAPI2\\Lab15.3DesignAPI2\\Lab15.3DesignAPI2.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\kpidek\\.nuget\\packages\\dapper\\2.0.35\\dapper.2.0.35.nupkg.sha512",
     "C:\\Users\\kpidek\\.nuget\\packages\\dapper.contrib\\2.0.35\\dapper.contrib.2.0.35.nupkg.sha512",
